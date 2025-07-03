@@ -1,9 +1,9 @@
 
 export const firebaseConfig = {
-  apiKey: "SUA_API_KEY",
-  authDomain: "SEU_DOMINIO.firebaseapp.com",
-  projectId: "SEU_PROJECT_ID",
-  storageBucket: "SEU_BUCKET.appspot.com",
-  messagingSenderId: "SEU_ID",
-  appId: "SEU_APP_ID"
+  apiKey: "AIzaSyA-N5DCcifhlvE2y9glGMJigT-Vq5JdKUo",
+  authDomain: "painel-v4bope.firebaseapp.com",
+  projectId: "painel-v4bope",
+  storageBucket: "painel-v4bope.firebasestorage.app",
+  messagingSenderId: "331256836362",
+  appId: "1:331256836362:web:2a910baf0ad8a9cd440af3"
 };
